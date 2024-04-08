@@ -4,16 +4,6 @@
 
 This is simple cryptography tool provides Encryption, Decryption and Hashing functions.<br> It uses a special way to encrypt and decrypt.
 
-<ul>
-    <li>Run GUI on Linux</li>
-</ul>
-
-```console
-
-sudo chmod +x ./GUI
-
-```
-
 ###
 
 <h1 align="center">Keep in touch</h1>
