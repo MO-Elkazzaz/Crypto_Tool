@@ -1,8 +1,10 @@
 import os as o
-try:
-    import customtkinter as ctk
-except ImportError:
-    o.system("pip install customtkinter")
+while True:
+    try:
+        import customtkinter as ctk
+        break
+    except ImportError:
+        o.system("pip install customtkinter")
 import hashlib as hl
 
 app = ctk.CTk()
