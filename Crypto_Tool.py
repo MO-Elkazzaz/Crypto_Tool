@@ -146,6 +146,6 @@ def main():
     else:
         hashing()
     t.sleep(1)
-    print("mThanks and see you again!")
+    print("Thanks and see you again!")
 
 main()
